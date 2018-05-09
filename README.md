@@ -1,6 +1,8 @@
 # Electromagnetic_Compass_Final_Version
 My 387 Final Project
 
+<img src="https://github.com/NickyNocerino/Electromagnetic_Compass_Final_Version/blob/master/20180508_231950.jpg" width="400">
+
 # Periferals:
 * -Xilinx PYNQ Board with PMOD Grove Adapter and Shield
 * -Grove IMU 9DOF v2.0
