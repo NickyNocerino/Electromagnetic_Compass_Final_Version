@@ -21,4 +21,4 @@ pieces of data to calculate the bearing from north to that target coordinates. T
 create the bearing between the direction the compass is pointed and he target. All of this data is then displayed on th OLED for the user,
 and is constantlu updated in real time, refreshing roughly every second.
 
-<img src="https://github.com/NickyNocerino/Electromagnetic_Compass_Final_Version/blob/master/20180508_232018.jpg" width="400">
+<img src="https://github.com/NickyNocerino/Electromagnetic_Compass_Final_Version/blob/master/Pictures/20180508_232018.jpg" width="400">
